@@ -1,0 +1,4 @@
+Adrian, 123, 999
+Jason, 123, 300
+Kevin, 123, 750
+Jingyi, 123, 0
